@@ -1,0 +1,24 @@
+{
+  "name": "pixi-proj-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanleyjames/pixi-group-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanleyjames/pixi-group-demo/issues"
+  },
+  "homepage": "https://github.com/Hanleyjames/pixi-group-demo#readme",
+  "dependencies": {
+    "connect": "^1.0.0",
+    "pixi.js": "^4.8.2",
+    "serve-static": "^1.13.2"
+  }
+}
